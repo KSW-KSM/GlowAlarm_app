@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart specific
+ai_alarm_app/.dart_tool/
+ai_alarm_app/.flutter-plugins
+ai_alarm_app/.flutter-plugins-dependencies
+ai_alarm_app/.packages
+ai_alarm_app/.pub-cache/
+ai_alarm_app/.pub/
+ai_alarm_app/build/
+
+# Python specific
+alarm-server/__pycache__/
+alarm-server/*.py[cod]
+alarm-server/*$py.class
+alarm-server/.env
+
+# IDE specific
+.idea/
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
