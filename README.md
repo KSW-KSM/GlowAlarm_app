@@ -1,4 +1,4 @@
-# 🌟 Gemini-Powered Smart Alarm App
+# 🌟 GlowAlarm APP
 
 Welcome to our cutting-edge Gemini-Powered Smart Alarm App! This innovative application leverages the power of Google's Gemini AI to provide you with an intelligent and adaptive alarm experience.
 
